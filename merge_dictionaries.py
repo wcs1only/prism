@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 
 def merge_dictionaries(dict1, dict2):
     """ This function will merge these dictionaries and print out the results
